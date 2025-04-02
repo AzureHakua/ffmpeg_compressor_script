@@ -6,7 +6,7 @@ Download the latest version of ffmpeg from https://ffmpeg.org/download.html
 Download or copy the scripts from this repository to your computer.
 
 # Installation
-Place `ffmpeg.exe` and `ffmprobe.exe` in the same folder as the `[ drag here ].bat` and `compress.ps1` files from this repository.
+Place `ffmpeg.exe` and `ffmprobe.exe` in the same folder as the `[ drag here ].bat` and `compress.ps1` files from this repository.  
 Your folder should look something like this:
 
 ![alt text](read_me_images/folder.png)
