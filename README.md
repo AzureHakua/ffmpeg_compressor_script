@@ -2,7 +2,7 @@
 A simple powershell script that can help compress video files using ffmpeg
 
 # Dependencies
-Download the latest version of ffmpeg from https://ffmpeg.org/download.html
+Download the latest version of ffmpeg from https://ffmpeg.org/download.html  
 Download or copy the scripts from this repository to your computer.
 
 # Installation
